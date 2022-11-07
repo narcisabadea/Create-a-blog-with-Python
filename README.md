@@ -10,7 +10,7 @@ To run the project on your machine run `python3 manage.py runserver`
 The server is running on: http://127.0.0.1:8000
 
 
-## Notions covered
+## Topics covered
 
 - Creating new project
 - Adding URLs and Views
